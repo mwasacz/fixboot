@@ -1,3 +1,8 @@
+*.bin
+*.elf
+*.o
+!boot_v1.7.bin
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
