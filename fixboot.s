@@ -1,3 +1,7 @@
+# This file is part of Fixboot
+# Copyright (C) 2021 Mikolaj Wasacz
+# SPDX-License-Identifier: Apache-2.0
+
 # Fix for the legacy ESP8266 bootloader
 # Allows OTA updates with 8MB or 16MB flash map
 # Only works with boot_1.7.bin (5d6f877)
